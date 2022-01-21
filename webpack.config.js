@@ -40,19 +40,4 @@ module.exports = {
             },
         ]
     },
-    
-    // optimization:{
-    //     minimize:true,
-    //     minimizer:["...", new ImageMinimizerPlugin({
-    //         minimizerOptions: {
-    //             plugins: [
-    //                 ["gifsicle", { interlaced: true }],
-    //                 ["mozjpeg",{quality:70}],
-    //                 ["optipng", { optimizationLevel: 5 }],
-    //                 ['svgo']
-    //             ],
-    //         },
-    //     }),
-    // ]
-    // }
 }
